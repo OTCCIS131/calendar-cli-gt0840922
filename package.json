@@ -1,0 +1,27 @@
+{
+  "name": "calendar-cli-gt0840922",
+  "version": "1.0.0",
+  "description": "calendar-cli-gt0840922",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OTCCIS131/calendar-cli-gt0840922.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OTCCIS131/calendar-cli-gt0840922/issues"
+  },
+  "homepage": "https://github.com/OTCCIS131/calendar-cli-gt0840922#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "chunk": "0.0.2",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "moment-range": "^3.0.3",
+    "prepend": "^1.0.2"
+  }
+}
